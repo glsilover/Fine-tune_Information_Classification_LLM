@@ -1,0 +1,237 @@
+[
+    {
+        "instruction": "将以下文本按照【其他、云计算、架构师、计算机、个人娱乐、人工智能、商业案例、汽车行业、经济观察】标签纬度进行关联度评分",
+        "input": "How Northpower used computer vision with AWS to automate safety inspection risk assessments In this post, we share how Northpower has worked with their technology partner Sculpt to reduce the effort and carbon required to identify and remediate public safety risks. Specifically, we cover the computer vision and artificial intelligence (AI) techniques used to combine datasets into a list of prioritized tasks for field teams to investigate and mitigate.",
+        "output": "{\"其他\": 1, \"云计算\": 8, \"架构师\": 3, \"计算机\": 9, \"个人娱乐\": 0, \"人工智能\": 7, \"商业案例\": 5, \"汽车行业\": 0, \"经济观察\": 2}"
+    },
+    {
+        "instruction": "将以下文本按照【其他、云计算、架构师、计算机、个人娱乐、人工智能、商业案例、汽车行业、经济观察】标签纬度进行关联度评分",
+        "input": "Looking ahead to the AI Seoul Summit How summits in Seoul, France and beyond can galvanize international cooperation on frontier AI safety",
+        "output": "{\"其他\": 2, \"云计算\": 3, \"架构师\": 5, \"计算机\": 8, \"个人娱乐\": 1, \"人工智能\": 10, \"商业案例\": 2, \"汽车行业\": 1, \"经济观察\": 4}"
+    },
+    {
+        "instruction": "将以下文本按照【其他、云计算、架构师、计算机、个人娱乐、人工智能、商业案例、汽车行业、经济观察】标签纬度进行关联度评分",
+        "input": "Gemini breaks new ground: a faster model, longer context and AI agents We’re introducing a series of updates across the Gemini family of models, including the new 1.5 Flash, our lightweight model for speed and efficiency, and Project Astra, our vision for the future of AI assistants.",
+        "output": "{\"其他\": 3, \"云计算\": 6, \"架构师\": 5, \"计算机\": 9, \"个人娱乐\": 1, \"人工智能\": 10, \"商业案例\": 4, \"汽车行业\": 1, \"经济观察\": 2}"
+    },
+    {
+        "instruction": "将以下文本按照【其他、云计算、架构师、计算机、个人娱乐、人工智能、商业案例、汽车行业、经济观察】标签纬度进行关联度评分",
+        "input": "Empowering YouTube creators with generative AI New video generation technology in YouTube Shorts will help millions of people realize their creative vision",
+        "output": "{\"其他\": 2, \"云计算\": 4, \"架构师\": 3, \"计算机\": 7, \"个人娱乐\": 8, \"人工智能\": 9, \"商业案例\": 5, \"汽车行业\": 1, \"经济观察\": 2}"
+    },
+    {
+        "instruction": "将以下文本按照【其他、云计算、架构师、计算机、个人娱乐、人工智能、商业案例、汽车行业、经济观察】标签纬度进行关联度评分",
+        "input": "New generative media models and tools, built with and for creators We’re introducing Veo, our most capable model for generating high-definition video, and Imagen 3, our highest quality text-to-image model. We’re also sharing new demo recordings created with our Music AI Sandbox.",
+        "output": "{\"其他\": 2, \"云计算\": 5, \"架构师\": 4, \"计算机\": 8, \"个人娱乐\": 6, \"人工智能\": 10, \"商业案例\": 3, \"汽车行业\": 0, \"经济观察\": 1}"
+    },
+    {
+        "instruction": "将以下文本按照【其他、云计算、架构师、计算机、个人娱乐、人工智能、商业案例、汽车行业、经济观察】标签纬度进行关联度评分",
+        "input": "Every tree counts Meta set a goal to reach net zero emissions by 2030. We are developing technology to mitigate our carbon footprint and making these openly available.",
+        "output": "{\"其他\": 7, \"云计算\": 4, \"架构师\": 2, \"计算机\": 5, \"个人娱乐\": 2, \"人工智能\": 3, \"商业案例\": 5, \"汽车行业\": 1, \"经济观察\": 6}"
+    },
+    {
+        "instruction": "将以下文本按照【其他、云计算、架构师、计算机、个人娱乐、人工智能、商业案例、汽车行业、经济观察】标签纬度进行关联度评分",
+        "input": "AlphaProteo generates novel proteins for biology and health research New AI system designs proteins that successfully bind to target molecules, with potential for advancing drug design, disease understanding and more.",
+        "output": "{\"其他\": 5, \"云计算\": 2, \"架构师\": 3, \"计算机\": 7, \"个人娱乐\": 0, \"人工智能\": 9, \"商业案例\": 4, \"汽车行业\": 0, \"经济观察\": 1}"
+    },
+    {
+        "instruction": "将以下文本按照【其他、云计算、架构师、计算机、个人娱乐、人工智能、商业案例、汽车行业、经济观察】标签纬度进行关联度评分",
+        "input": "A generalist AI agent for 3D virtual environments Introducing SIMA, a Scalable Instructable Multiworld Agent",
+        "output": "{\"其他\": 3, \"云计算\": 5, \"架构师\": 6, \"计算机\": 8, \"个人娱乐\": 7, \"人工智能\": 10, \"商业案例\": 4, \"汽车行业\": 1, \"经济观察\": 2}"
+    },
+    {
+        "instruction": "将以下文本按照【其他、云计算、架构师、计算机、个人娱乐、人工智能、商业案例、汽车行业、经济观察】标签纬度进行关联度评分",
+        "input": "Achieve operational excellence with well-architected generative AI solutions using Amazon Bedrock In this post, we discuss scaling up generative AI for different lines of businesses (LOBs) and address the challenges that come around legal, compliance, operational complexities, data privacy and security.",
+        "output": "{\"其他\": 3, \"云计算\": 7, \"架构师\": 9, \"计算机\": 8, \"个人娱乐\": 1, \"人工智能\": 10, \"商业案例\": 5, \"汽车行业\": 0, \"经济观察\": 2}"
+    },
+    {
+        "instruction": "将以下文本按照【其他、云计算、架构师、计算机、个人娱乐、人工智能、商业案例、汽车行业、经济观察】标签纬度进行关联度评分",
+        "input": "AWS recognized as a first-time Leader in the 2024 Gartner Magic Quadrant for Data Science and Machine Learning Platforms AWS has been recognized as a Leader in the 2024 Gartner Magic Quadrant for Data Science and Machine Learning Platforms. The post highlights how AWS's continued innovations in services like Amazon Bedrock and Amazon SageMaker have enabled organizations to unlock the transformative potential of generative AI.",
+        "output": "{\"其他\": 2, \"云计算\": 10, \"架构师\": 6, \"计算机\": 8, \"个人娱乐\": 0, \"人工智能\": 10, \"商业案例\": 5, \"汽车行业\": 0, \"经济观察\": 4}"
+    },
+    {
+        "instruction": "将以下文本按照【其他、云计算、架构师、计算机、个人娱乐、人工智能、商业案例、汽车行业、经济观察】标签纬度进行关联度评分",
+        "input": "Google DeepMind at ICLR 2024 Developing next-gen AI agents, exploring new modalities, and pioneering foundational learning",
+        "output": "{\"其他\": 4, \"云计算\": 5, \"架构师\": 6, \"计算机\": 8, \"个人娱乐\": 2, \"人工智能\": 10, \"商业案例\": 3, \"汽车行业\": 1, \"经济观察\": 2}"
+    },
+    {
+        "instruction": "将以下文本按照【其他、云计算、架构师、计算机、个人娱乐、人工智能、商业案例、汽车行业、经济观察】标签纬度进行关联度评分",
+        "input": "Generating audio for video Video-to-audio research uses video pixels and text prompts to generate rich soundtracks",
+        "output": "{\"其他\": 5, \"云计算\": 2, \"架构师\": 3, \"计算机\": 8, \"个人娱乐\": 7, \"人工智能\": 9, \"商业案例\": 4, \"汽车行业\": 0, \"经济观察\": 1}"
+    },
+    {
+        "instruction": "将以下文本按照【其他、云计算、架构师、计算机、个人娱乐、人工智能、商业案例、汽车行业、经济观察】标签纬度进行关联度评分",
+        "input": "Visier’s data science team boosts their model output 10 times by migrating to Amazon SageMaker In this post, we learn how Visier was able to boost their model output by 10 times, accelerate innovation cycles, and unlock new opportunities using Amazon SageMaker.",
+        "output": "{\"其他\": 1, \"云计算\": 9, \"架构师\": 7, \"计算机\": 8, \"个人娱乐\": 0, \"人工智能\": 9, \"商业案例\": 8, \"汽车行业\": 0, \"经济观察\": 2}"
+    },
+    {
+        "instruction": "将以下文本按照【其他、云计算、架构师、计算机、个人娱乐、人工智能、商业案例、汽车行业、经济观察】标签纬度进行关联度评分",
+        "input": "Announcing the 2023 Meta Research PhD Fellowship award winners ...",
+        "output": "{\"其他\": 3, \"云计算\": 1, \"架构师\": 4, \"计算机\": 8, \"个人娱乐\": 1, \"人工智能\": 7, \"商业案例\": 5, \"汽车行业\": 0, \"经济观察\": 2}"
+    },
+    {
+        "instruction": "将以下文本按照【其他、云计算、架构师、计算机、个人娱乐、人工智能、商业案例、汽车行业、经济观察】标签纬度进行关联度评分",
+        "input": "How generational differences affect consumer attitudes towards ads Our research study, in collaboration with CrowdDNA, aims to understand people's relationship with social media ads across different social media platforms.",
+        "output": "{\"其他\": 3, \"云计算\": 2, \"架构师\": 0, \"计算机\": 6, \"个人娱乐\": 7, \"人工智能\": 0, \"商业案例\": 4, \"汽车行业\": 0, \"经济观察\": 5}"
+    },
+    {
+        "instruction": "将以下文本按照【其他、云计算、架构师、计算机、个人娱乐、人工智能、商业案例、汽车行业、经济观察】标签纬度进行关联度评分",
+        "input": "Using task-specific models from AI21 Labs on AWS In this blog post, we will show you how to leverage AI21 Labs’ Task-Specific Models (TSMs) on AWS to enhance your business operations. You will learn the steps to subscribe to AI21 Labs in the AWS Marketplace, set up a domain in Amazon SageMaker, and utilize AI21 TSMs via SageMaker JumpStart.",
+        "output": "{\"其他\": 3, \"云计算\": 9, \"架构师\": 7, \"计算机\": 8, \"个人娱乐\": 1, \"人工智能\": 10, \"商业案例\": 6, \"汽车行业\": 0, \"经济观察\": 2}"
+    },
+    {
+        "instruction": "将以下文本按照【其他、云计算、架构师、计算机、个人娱乐、人工智能、商业案例、汽车行业、经济观察】标签纬度进行关联度评分",
+        "input": "Gemma Scope: helping the safety community shed light on the inner workings of language models Announcing a comprehensive, open suite of sparse autoencoders for language model interpretability.",
+        "output": "{\"其他\": 4, \"云计算\": 3, \"架构师\": 6, \"计算机\": 8, \"个人娱乐\": 1, \"人工智能\": 10, \"商业案例\": 2, \"汽车行业\": 0, \"经济观察\": 1}"
+    },
+    {
+        "instruction": "将以下文本按照【其他、云计算、架构师、计算机、个人娱乐、人工智能、商业案例、汽车行业、经济观察】标签纬度进行关联度评分",
+        "input": "Elevate workforce productivity through seamless personalization in Amazon Q Business In this post, we explore how Amazon Q Business uses personalization to improve the relevance of responses and how you can align your use cases and end-user data to take full advantage of this capability",
+        "output": "{\"其他\": 3, \"云计算\": 6, \"架构师\": 5, \"计算机\": 7, \"个人娱乐\": 0, \"人工智能\": 8, \"商业案例\": 7, \"汽车行业\": 0, \"经济观察\": 2}"
+    },
+    {
+        "instruction": "将以下文本按照【其他、云计算、架构师、计算机、个人娱乐、人工智能、商业案例、汽车行业、经济观察】标签纬度进行关联度评分",
+        "input": "Build a multimodal social media content generator using Amazon Bedrock In this post, we walk you through a step-by-step process to create a social media content generator app using vision, language, and embedding models (Anthropic’s Claude 3, Amazon Titan Image Generator, and Amazon Titan Multimodal Embeddings) through Amazon Bedrock API and Amazon OpenSearch Serverless.",
+        "output": "{\"其他\": 2, \"云计算\": 7, \"架构师\": 6, \"计算机\": 8, \"个人娱乐\": 4, \"人工智能\": 9, \"商业案例\": 5, \"汽车行业\": 0, \"经济观察\": 0}"
+    },
+    {
+        "instruction": "将以下文本按照【其他、云计算、架构师、计算机、个人娱乐、人工智能、商业案例、汽车行业、经济观察】标签纬度进行关联度评分",
+        "input": "Mapping the misuse of generative AI New research analyzes the misuse of multimodal generative AI today, in order to help build safer and more responsible technologies.",
+        "output": "{\"其他\": 2, \"云计算\": 5, \"架构师\": 4, \"计算机\": 8, \"个人娱乐\": 1, \"人工智能\": 10, \"商业案例\": 3, \"汽车行业\": 0, \"经济观察\": 2}"
+    },
+    {
+        "instruction": "将以下文本按照【其他、云计算、架构师、计算机、个人娱乐、人工智能、商业案例、汽车行业、经济观察】标签纬度进行关联度评分",
+        "input": "Introducing the Frontier Safety Framework Our approach to analyzing and mitigating future risks posed by advanced AI models",
+        "output": "{\"其他\": 2, \"云计算\": 5, \"架构师\": 6, \"计算机\": 8, \"个人娱乐\": 0, \"人工智能\": 10, \"商业案例\": 4, \"汽车行业\": 0, \"经济观察\": 3}"
+    },
+    {
+        "instruction": "将以下文本按照【其他、云计算、架构师、计算机、个人娱乐、人工智能、商业案例、汽车行业、经济观察】标签纬度进行关联度评分",
+        "input": "Import a question answering fine-tuned model into Amazon Bedrock as a custom model In this post, we provide a step-by-step approach of fine-tuning a Mistral model using SageMaker and import it into Amazon Bedrock using the Custom Import Model feature.",
+        "output": "{\"其他\": 0, \"云计算\": 9, \"架构师\": 7, \"计算机\": 8, \"个人娱乐\": 0, \"人工智能\": 10, \"商业案例\": 0, \"汽车行业\": 0, \"经济观察\": 0}"
+    },
+    {
+        "instruction": "将以下文本按照【其他、云计算、架构师、计算机、个人娱乐、人工智能、商业案例、汽车行业、经济观察】标签纬度进行关联度评分",
+        "input": "Architecture to AWS CloudFormation code using Anthropic’s Claude 3 on Amazon Bedrock In this post, we explore some ways you can use Anthropic’s Claude 3 Sonnet’s vision capabilities to accelerate the process of moving from architecture to the prototype stage of a solution.",
+        "output": "{\"其他\": 3, \"云计算\": 9, \"架构师\": 7, \"计算机\": 8, \"个人娱乐\": 1, \"人工智能\": 10, \"商业案例\": 4, \"汽车行业\": 1, \"经济观察\": 2}"
+    },
+    {
+        "instruction": "将以下文本按照【其他、云计算、架构师、计算机、个人娱乐、人工智能、商业案例、汽车行业、经济观察】标签纬度进行关联度评分",
+        "input": "Create your fashion assistant application using Amazon Titan models and Amazon Bedrock Agents In this post, we implement a fashion assistant agent using Amazon Bedrock Agents and the Amazon Titan family models. The fashion assistant provides a personalized, multimodal conversational experience.",
+        "output": "{\"其他\": 3, \"云计算\": 7, \"架构师\": 6, \"计算机\": 8, \"个人娱乐\": 5, \"人工智能\": 9, \"商业案例\": 4, \"汽车行业\": 0, \"经济观察\": 2}"
+    },
+    {
+        "instruction": "将以下文本按照【其他、云计算、架构师、计算机、个人娱乐、人工智能、商业案例、汽车行业、经济观察】标签纬度进行关联度评分",
+        "input": "Google DeepMind at ICML 2024 Exploring AGI, the challenges of scaling and the future of multimodal generative AI",
+        "output": "{\"其他\": 2, \"云计算\": 4, \"架构师\": 5, \"计算机\": 8, \"个人娱乐\": 2, \"人工智能\": 10, \"商业案例\": 3, \"汽车行业\": 1, \"经济观察\": 2}"
+    },
+    {
+        "instruction": "将以下文本按照【其他、云计算、架构师、计算机、个人娱乐、人工智能、商业案例、汽车行业、经济观察】标签纬度进行关联度评分",
+        "input": "A new generation of African talent brings cutting-edge AI to scientific challenges Food security, healthcare and exploring the cosmos are among the ways students of a new pan-African Master’s program aspire to apply AI",
+        "output": "{\"其他\": 7, \"云计算\": 5, \"架构师\": 4, \"计算机\": 8, \"个人娱乐\": 1, \"人工智能\": 10, \"商业案例\": 6, \"汽车行业\": 2, \"经济观察\": 3}"
+    },
+    {
+        "instruction": "将以下文本按照【其他、云计算、架构师、计算机、个人娱乐、人工智能、商业案例、汽车行业、经济观察】标签纬度进行关联度评分",
+        "input": "Introducing Segment Anything: Working toward the first foundation model for image segmentation ",
+        "output": "{\"其他\": 1, \"云计算\": 3, \"架构师\": 4, \"计算机\": 9, \"个人娱乐\": 1, \"人工智能\": 10, \"商业案例\": 2, \"汽车行业\": 0, \"经济观察\": 0}"
+    },
+    {
+        "instruction": "将以下文本按照【其他、云计算、架构师、计算机、个人娱乐、人工智能、商业案例、汽车行业、经济观察】标签纬度进行关联度评分",
+        "input": "Our latest advances in robot dexterity Two new AI systems, ALOHA Unleashed and DemoStart, help robots learn to perform complex tasks that require dexterous movement",
+        "output": "{\"其他\": 4, \"云计算\": 3, \"架构师\": 2, \"计算机\": 8, \"个人娱乐\": 0, \"人工智能\": 10, \"商业案例\": 2, \"汽车行业\": 1, \"经济观察\": 1}"
+    },
+    {
+        "instruction": "将以下文本按照【其他、云计算、架构师、计算机、个人娱乐、人工智能、商业案例、汽车行业、经济观察】标签纬度进行关联度评分",
+        "input": "Gemma: Introducing new state-of-the-art open models Gemma is built for responsible AI development from the same research and technology used to create Gemini models.",
+        "output": "{\"其他\": 3, \"云计算\": 5, \"架构师\": 6, \"计算机\": 8, \"个人娱乐\": 1, \"人工智能\": 10, \"商业案例\": 4, \"汽车行业\": 1, \"经济观察\": 2}"
+    },
+    {
+        "instruction": "将以下文本按照【其他、云计算、架构师、计算机、个人娱乐、人工智能、商业案例、汽车行业、经济观察】标签纬度进行关联度评分",
+        "input": "Maintain access and consider alternatives for Amazon Monitron This post discusses how customers can maintain access to Amazon Monitron after it is closed to new customers and what some alternatives are to Amazon Monitron.",
+        "output": "{\"其他\": 5, \"云计算\": 7, \"架构师\": 4, \"计算机\": 6, \"个人娱乐\": 1, \"人工智能\": 5, \"商业案例\": 3, \"汽车行业\": 1, \"经济观察\": 2}"
+    },
+    {
+        "instruction": "将以下文本按照【其他、云计算、架构师、计算机、个人娱乐、人工智能、商业案例、汽车行业、经济观察】标签纬度进行关联度评分",
+        "input": "AlphaFold 3 predicts the structure and interactions of all of life’s molecules Introducing a new AI model developed by Google DeepMind and Isomorphic Labs.",
+        "output": "{\"其他\": 3, \"云计算\": 5, \"架构师\": 6, \"计算机\": 8, \"个人娱乐\": 1, \"人工智能\": 10, \"商业案例\": 4, \"汽车行业\": 1, \"经济观察\": 2}"
+    },
+    {
+        "instruction": "将以下文本按照【其他、云计算、架构师、计算机、个人娱乐、人工智能、商业案例、汽车行业、经济观察】标签纬度进行关联度评分",
+        "input": "The ethics of advanced AI assistants Exploring the promise and risks of a future with more capable AI",
+        "output": "{\"其他\": 1, \"云计算\": 5, \"架构师\": 3, \"计算机\": 8, \"个人娱乐\": 3, \"人工智能\": 10, \"商业案例\": 6, \"汽车行业\": 2, \"经济观察\": 4}"
+    },
+    {
+        "instruction": "将以下文本按照【其他、云计算、架构师、计算机、个人娱乐、人工智能、商业案例、汽车行业、经济观察】标签纬度进行关联度评分",
+        "input": "AI achieves silver-medal standard solving International Mathematical Olympiad problems Breakthrough models AlphaProof and AlphaGeometry 2 solve advanced reasoning problems in mathematics",
+        "output": "{\"其他\": 0, \"云计算\": 2, \"架构师\": 3, \"计算机\": 8, \"个人娱乐\": 1, \"人工智能\": 10, \"商业案例\": 2, \"汽车行业\": 0, \"经济观察\": 1}"
+    },
+    {
+        "instruction": "将以下文本按照【其他、云计算、架构师、计算机、个人娱乐、人工智能、商业案例、汽车行业、经济观察】标签纬度进行关联度评分",
+        "input": "FermiNet: Quantum physics and chemistry from first principles Using deep learning to solve fundamental problems in computational quantum chemistry and explore how matter interacts with light",
+        "output": "{\"其他\": 4, \"云计算\": 2, \"架构师\": 1, \"计算机\": 8, \"个人娱乐\": 0, \"人工智能\": 7, \"商业案例\": 0, \"汽车行业\": 0, \"经济观察\": 0}"
+    },
+    {
+        "instruction": "将以下文本按照【其他、云计算、架构师、计算机、个人娱乐、人工智能、商业案例、汽车行业、经济观察】标签纬度进行关联度评分",
+        "input": "TacticAI: an AI assistant for football tactics As part of our multi-year collaboration with Liverpool FC, we develop a full AI system that can advise coaches on corner kicks",
+        "output": "{\"其他\": 1, \"云计算\": 5, \"架构师\": 3, \"计算机\": 7, \"个人娱乐\": 4, \"人工智能\": 10, \"商业案例\": 6, \"汽车行业\": 0, \"经济观察\": 2}"
+    },
+    {
+        "instruction": "将以下文本按照【其他、云计算、架构师、计算机、个人娱乐、人工智能、商业案例、汽车行业、经济观察】标签纬度进行关联度评分",
+        "input": "Updated production-ready Gemini models, reduced 1.5 Pro pricing, increased rate limits, and more We’re releasing two updated production-ready Gemini models",
+        "output": "{\"其他\": 3, \"云计算\": 5, \"架构师\": 6, \"计算机\": 8, \"个人娱乐\": 1, \"人工智能\": 7, \"商业案例\": 4, \"汽车行业\": 0, \"经济观察\": 2}"
+    },
+    {
+        "instruction": "将以下文本按照【其他、云计算、架构师、计算机、个人娱乐、人工智能、商业案例、汽车行业、经济观察】标签纬度进行关联度评分",
+        "input": "Control data access to Amazon S3 from Amazon SageMaker Studio with Amazon S3 Access Grants In this post, we demonstrate how to simplify data access to Amazon S3 from SageMaker Studio using S3 Access Grants, specifically for different user personas using IAM principals.",
+        "output": "{\"其他\": 1, \"云计算\": 9, \"架构师\": 6, \"计算机\": 8, \"个人娱乐\": 0, \"人工智能\": 8, \"商业案例\": 3, \"汽车行业\": 0, \"经济观察\": 2}"
+    },
+    {
+        "instruction": "将以下文本按照【其他、云计算、架构师、计算机、个人娱乐、人工智能、商业案例、汽车行业、经济观察】标签纬度进行关联度评分",
+        "input": "Two meta sustainability grant and scholarship recipients share impact ",
+        "output": "{\"其他\": 10, \"云计算\": 0, \"架构师\": 0, \"计算机\": 0, \"个人娱乐\": 0, \"人工智能\": 0, \"商业案例\": 0, \"汽车行业\": 0, \"经济观察\": 0}"
+    },
+    {
+        "instruction": "将以下文本按照【其他、云计算、架构师、计算机、个人娱乐、人工智能、商业案例、汽车行业、经济观察】标签纬度进行关联度评分",
+        "input": "How a non-traditional background led to cutting-edge XR tech ",
+        "output": "{\"其他\": 2, \"云计算\": 3, \"架构师\": 6, \"计算机\": 8, \"个人娱乐\": 7, \"人工智能\": 5, \"商业案例\": 4, \"汽车行业\": 1, \"经济观察\": 2}"
+    },
+    {
+        "instruction": "将以下文本按照【其他、云计算、架构师、计算机、个人娱乐、人工智能、商业案例、汽车行业、经济观察】标签纬度进行关联度评分",
+        "input": "How Aviva built a scalable, secure, and reliable MLOps platform using Amazon SageMaker In this post, we describe how Aviva built a fully serverless MLOps platform based on the AWS Enterprise MLOps Framework and Amazon SageMaker to integrate DevOps best practices into the ML lifecycle. This solution establishes MLOps practices to standardize model development, streamline ML model deployment, and provide consistent monitoring.",
+        "output": "{\"其他\": 3, \"云计算\": 9, \"架构师\": 7, \"计算机\": 8, \"个人娱乐\": 1, \"人工智能\": 10, \"商业案例\": 6, \"汽车行业\": 1, \"经济观察\": 2}"
+    },
+    {
+        "instruction": "将以下文本按照【其他、云计算、架构师、计算机、个人娱乐、人工智能、商业案例、汽车行业、经济观察】标签纬度进行关联度评分",
+        "input": "A new, unique AI dataset for animating amateur drawings ",
+        "output": "{\"其他\": 1, \"云计算\": 2, \"架构师\": 3, \"计算机\": 8, \"个人娱乐\": 6, \"人工智能\": 10, \"商业案例\": 4, \"汽车行业\": 0, \"经济观察\": 0}"
+    },
+    {
+        "instruction": "将以下文本按照【其他、云计算、架构师、计算机、个人娱乐、人工智能、商业案例、汽车行业、经济观察】标签纬度进行关联度评分",
+        "input": "How AlphaChip transformed computer chip design Our AI method has accelerated and optimized chip design, and its superhuman chip layouts are used in hardware around the world.",
+        "output": "{\"其他\": 2, \"云计算\": 4, \"架构师\": 5, \"计算机\": 9, \"个人娱乐\": 1, \"人工智能\": 8, \"商业案例\": 6, \"汽车行业\": 1, \"经济观察\": 2}"
+    },
+    {
+        "instruction": "将以下文本按照【其他、云计算、架构师、计算机、个人娱乐、人工智能、商业案例、汽车行业、经济观察】标签纬度进行关联度评分",
+        "input": "Watermarking AI-generated text and video with SynthID Announcing our novel watermarking method for AI-generated text and video, and how we’re bringing SynthID to key Google products",
+        "output": "{\"其他\": 2, \"云计算\": 5, \"架构师\": 4, \"计算机\": 8, \"个人娱乐\": 6, \"人工智能\": 10, \"商业案例\": 3, \"汽车行业\": 1, \"经济观察\": 2}"
+    },
+    {
+        "instruction": "将以下文本按照【其他、云计算、架构师、计算机、个人娱乐、人工智能、商业案例、汽车行业、经济观察】标签纬度进行关联度评分",
+        "input": "Announcing the winners of the 2022 Foundational Integrity Research request for proposals In September, Meta launched the Foundational Integrity Research request for proposals. Today, we announce the winners of this award.",
+        "output": "{\"其他\": 5, \"云计算\": 4, \"架构师\": 3, \"计算机\": 6, \"个人娱乐\": 2, \"人工智能\": 5, \"商业案例\": 3, \"汽车行业\": 1, \"经济观察\": 2}"
+    },
+    {
+        "instruction": "将以下文本按照【其他、云计算、架构师、计算机、个人娱乐、人工智能、商业案例、汽车行业、经济观察】标签纬度进行关联度评分",
+        "input": "Build faster with Buck2: Our open source build system ",
+        "output": "{\"其他\": 3, \"云计算\": 5, \"架构师\": 7, \"计算机\": 8, \"个人娱乐\": 1, \"人工智能\": 2, \"商业案例\": 4, \"汽车行业\": 1, \"经济观察\": 1}"
+    },
+    {
+        "instruction": "将以下文本按照【其他、云计算、架构师、计算机、个人娱乐、人工智能、商业案例、汽车行业、经济观察】标签纬度进行关联度评分",
+        "input": "Scalable training platform with Amazon SageMaker HyperPod for innovation: a video generation case study In this post, we share an ML infrastructure architecture that uses SageMaker HyperPod to support research team innovation in video generation. We will discuss the advantages and pain points addressed by SageMaker HyperPod, provide a step-by-step setup guide, and demonstrate how to run a video generation algorithm on the cluster.",
+        "output": "{\"其他\": 3, \"云计算\": 9, \"架构师\": 7, \"计算机\": 8, \"个人娱乐\": 4, \"人工智能\": 10, \"商业案例\": 5, \"汽车行业\": 1, \"经济观察\": 2}"
+    },
+    {
+        "instruction": "将以下文本按照【其他、云计算、架构师、计算机、个人娱乐、人工智能、商业案例、汽车行业、经济观察】标签纬度进行关联度评分",
+        "input": "Build a serverless voice-based contextual chatbot for people with disabilities using Amazon Bedrock In this post, we presented how to create a fully serverless voice-based contextual chatbot using Amazon Bedrock with Anthropic Claude.",
+        "output": "{\"其他\": 2, \"云计算\": 9, \"架构师\": 7, \"计算机\": 8, \"个人娱乐\": 0, \"人工智能\": 10, \"商业案例\": 0, \"汽车行业\": 0, \"经济观察\": 0}"
+    }
+]
