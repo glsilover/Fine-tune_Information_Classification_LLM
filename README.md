@@ -23,17 +23,22 @@
 4. 将爬取的内容插入金山云RDS。
 <br>
 # Part 2 : 数据清洗&指令数据集构建
+
 ### 任务目标
 1. 利用gpt-4o、金山云瀚海，对爬取到原始资讯文章进行标注，按照不同标签进行相关性打分；
 2. 数据清洗：由于爬取的文章token数过多、不均一，需要对其进行精简为500 token。使用TF-IDF对关键词提取，设计启发式规则进行过滤，最终精简为具有代表性的句子；
 3. 按照Qwen微调指令集格式进行指令数据集组装构建。
+   
 <br>
+
 # Part 3 : 基于LoRA（Low-Rank Adaptation）的有监督微调（Supervised Fine-tuning）
 ### 任务目标
 1. 基于LoRA对Qwen2.5-7B模型进行微调；
 2. 调整LoRA超参数，如LoRA Rank、Learning Rate、Epoch，以及微调数据量。得到不同的LoRA，用于后续模型评测；
 3. 通过SwanLab，对训练过程中的Loss等参数进行观测。
+
 <br>
+
 # Part 4 : 模型评测
 ### 任务目标
 1. 加载Qwen2.5-7B模型及对应LoRA权重，进行推理任务；
