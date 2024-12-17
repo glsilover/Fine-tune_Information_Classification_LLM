@@ -1,0 +1,107 @@
+{
+    "type": 23,
+    "content": {
+        "header": {
+            "title": {
+                "tag": "text",
+                "content": {
+                    "type": "plainText",
+                    "text": ""
+                }
+            }
+        },
+        "elements": [
+            {
+                "content": {
+                    "store_key": "DD1AFB29ZGV2L2ZpbGUvOTVjZGM2MjZhOGQxMWQyNDZjY2MzZmEzMjFjOTQ3NmM6a3MzOmtvYS1pbWc="
+                },
+                "tag": "img"
+            },
+            {
+                "style": "dashed",
+                "tag": "hr"
+            },
+            {
+                "img": {
+                    "store_key": "DD1AFB29ZGV2L2ltYWdlL2JiYWZmOTY5NjRlZWViMjRmZTJiN2ZmZTQwNzFlN2Y2OmtzMzprb2EtaW1n"
+                },
+                "link": {
+                    "url": "{{ doc_url_1 }}"
+                },
+                "tag": "picText",
+                "text": {
+                    "text": "**{{ doc_name_1 }}** \n\n{{ doc_priority_1 }} | 来源：{{ doc_source_1 }}，简介：{{ doc_description_ai_summary_1 }}",
+                    "type": "markdown"
+                }
+            },
+            {
+                "tag": "hr",
+                "style": "dashed"
+            },
+            {
+                "img": {
+                    "store_key": "DD1AFB29ZGV2L2ltYWdlL2I5Njg4ZmVkMGZkNzJiYTkyZTBlYzMzZGVhMWY0NWJkOmtzMzprb2EtaW1n"
+                },
+                "link": {
+                    "url": "{{ doc_url_2 }}"
+                },
+                "tag": "picText",
+                "text": {
+                    "text": "**{{ doc_name_2 }}** \n\n{{ doc_priority_2 }} | 来源：{{ doc_source_2 }}，简介：{{ doc_description_ai_summary_2 }}",
+                    "type": "markdown"
+                }
+            },
+            {
+                "tag": "hr",
+                "style": "dashed"
+            },
+            {
+                "img": {
+                    "store_key": "DD1AFB29ZGV2L2ltYWdlLzQ0OTJhYjVjMWZlNTQyOGU1ZTVhMDMwZjI5ZTkyNDMxOmtzMzprb2EtaW1n"
+                },
+                "link": {
+                    "url": "{{ doc_url_3 }}"
+                },
+                "tag": "picText",
+                "text": {
+                    "text": "**{{ doc_name_3 }}** \n\n{{ doc_priority_3 }} | 来源：{{ doc_source_3 }}，简介：{{ doc_description_ai_summary_3 }}",
+                    "type": "markdown"
+                }
+            },
+            {
+                "tag": "hr",
+                "style": "dashed"
+            },
+            {
+                "img": {
+                    "store_key": "DD1AFB29ZGV2L2ltYWdlLzU0MzE4NTgyOTk0NDVlZWE4OTA0OTE2NjY4Y2I2Njc1OmtzMzprb2EtaW1n"
+                },
+                "link": {
+                    "url": "{{ doc_url_4 }}"
+                },
+                "tag": "picText",
+                "text": {
+                    "text": "**{{ doc_name_4 }}** \n\n{{ doc_priority_4 }} | 来源：{{ doc_source_4 }}，简介：{{ doc_description_ai_summary_4 }}",
+                    "type": "markdown"
+                }
+            },
+            {
+                "tag": "hr",
+                "style": "dashed"
+            },
+            {
+                "img": {
+                    "store_key": "DD1AFB29ZGV2L2ltYWdlL2RhMjU0N2QzNjcwMjFhMTg3ZGE2N2ViNWZmZDY2YTMzOmtzMzprb2EtaW1n"
+                },
+                "link": {
+                    "url": "{{ doc_url_5 }}"
+                },
+                "tag": "picText",
+                "text": {
+                    "text": "**{{ doc_name_5 }}** \n\n{{ doc_priority_5 }} | 来源：{{ doc_source_5 }}，简介：{{ doc_description_ai_summary_5 }}",
+                    "type": "markdown"
+                }
+            }
+        ]
+    }
+}
