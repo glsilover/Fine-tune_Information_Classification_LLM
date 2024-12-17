@@ -1,0 +1,67 @@
+# 爬取数据源
+Source_List: ['AWS-MachineLearning', 'Meta-Research', 'DeepMind-Google', 'OpenAI_News', 'Microsoft_Blog', 'InfoQ', '36kr', 'sspai', 'deeplearning_ai']
+
+
+mysql:
+  host: 10.0.X.X
+  port: 3306
+  user: admin
+  password:
+  database:
+
+
+sleep_time: 30
+
+
+AWS-MachineLearning:
+  url: https://aws.amazon.com/cn/blogs/machine-learning/feed/
+  type: rss
+  folder: AWS-MachineLearning
+
+Meta-Research:
+  url: https://research.fb.com/feed/
+  type: rss
+  folder: Meta-Research
+
+DeepMind-Google:
+  url: https://deepmind.google/blog/rss.xml
+  type: rss
+  folder: DeepMind-Google
+
+OpenAI_News:
+  url: https://openai.com/news/?limit=10
+  type: web
+  folder: OpenAI_News
+  domain: https://openai.com
+
+Microsoft_Blog:
+  url: https://blogs.microsoft.com/ai/feed/rss
+  type: rss
+  folder: Microsoft_Blog
+
+InfoQ:
+  url: https://www.infoq.cn/feed/
+  type: rss
+  folder: InfoQ
+
+36kr:
+  url: https://www.36kr.com/feed-article
+  type: rss
+  folder: 36kr
+
+sspai:
+  url: https://sspai.com/feed
+  type: rss
+  folder: sspai
+
+deeplearning_ai:
+  url: https://www.deeplearning.ai/the-batch/
+  type: web
+  folder: deeplearning_ai
+  domain: https://www.deeplearning.ai
+
+ali_product_news:
+  url: https://www.aliyun.com/product/news?spm=a2c4g.750001.0.0.4cc1284277zV52
+  type: web
+  folder: ali_product_news
+  domain: ''
